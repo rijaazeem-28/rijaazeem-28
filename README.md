@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rija Azeem 
 
-<!--
-**rijaazeem-28/rijaazeem-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science student interested in
+Web Development and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Technical Skills
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- MongoDB
+- Python
+- Machine Learning
+- Deep Learning
+- Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Personal Portfolio
+- PakClassified
+- AI/ML Projects
+
+## Currently Learning
+- Next.js
+- AI Agents
+- n8n Automation
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rija-azeem-29711037a
