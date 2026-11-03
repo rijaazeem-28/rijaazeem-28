@@ -1,8 +1,8 @@
 # Hi, I'm Rija Azeem 
 
 ## About Me
-I'm a Computer Science student interested in
-Web Development and Artificial Intelligence.
+I'm a Computer Science student interested in  Artificial Intelligence and
+Web Development .
 
 ## Technical Skills
 - HTML, CSS, JavaScript
